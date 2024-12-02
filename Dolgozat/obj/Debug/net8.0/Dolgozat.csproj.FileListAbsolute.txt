@@ -1,0 +1,14 @@
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\bin\Debug\net8.0\Dolgozat.exe
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\bin\Debug\net8.0\Dolgozat.deps.json
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\bin\Debug\net8.0\Dolgozat.runtimeconfig.json
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\bin\Debug\net8.0\Dolgozat.dll
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\bin\Debug\net8.0\Dolgozat.pdb
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.AssemblyInfoInputs.cache
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.AssemblyInfo.cs
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.dll
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\refint\Dolgozat.dll
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.pdb
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.genruntimeconfig.cache
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\ref\Dolgozat.dll
