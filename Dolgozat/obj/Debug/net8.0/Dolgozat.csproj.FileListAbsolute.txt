@@ -12,3 +12,4 @@ C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\refint\Dolgoz
 C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.pdb
 C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.genruntimeconfig.cache
 C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\ref\Dolgozat.dll
+C:\Users\kosa.mark\source\repos\Dolgozat\Dolgozat\obj\Debug\net8.0\Dolgozat.sourcelink.json

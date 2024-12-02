@@ -20,6 +20,11 @@ namespace Dolgozat
             Guid = Guid.NewGuid();
         }
 
+        public override string ToString()
+        {
+            return Keresztnev + " " + Vezeteknev;
+        }
+
         public string Keresztnev {
             get => keresztnev;
             set {

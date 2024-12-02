@@ -40,7 +40,10 @@ namespace Dolgozat
 
         public override string ToString()
         {
-            return $"Cím: {Cim}, ISBN: {ISBN}, Kiadási dátum: {Release_date}, Nyelv: {Nyelv}, Ár: {Ar}," + (Authors.Count == 1 ? "Szerző: " : "Szerzők: ") + Authors.ToString() + " Készlet: " + (Keszlet.ToString().Length == 0 ? "beszerzés alatt" : keszlet + "db");
+            string authorsList = string.Join(", ", Authors);
+            string authorLabel = Authors.Count == 1 ? "Szerző: " : "Szerzők: ";
+
+            return $"Cím: {Cim}, ISBN: {ISBN}, Kiadási dátum: {Release_date}, Nyelv: {Nyelv}, Ár: {Ar}, {authorLabel}{authorsList} Készlet: {(Keszlet.ToString().Length == 0 ? "beszerzés alatt" : Keszlet + "db")}";
         }
 
         public long ISBN {
