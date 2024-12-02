@@ -69,7 +69,6 @@ public class Program
             {
                 totalRevenue += valasztottKonyv.Ar;
                 valasztottKonyv.Keszlet--;
-                Console.WriteLine(valasztottKonyv.ToString());
             }
             else
             {
